@@ -1,0 +1,439 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lamentation of Mr Pages wife of Plimouth: who being enforced to wed against her will, did consent to murder for the love of George Strangwidge, for which fact they suffered death at Barstable in Devonshire. The tune is, Fortune my foe.</title>
+            <author>Deloney, Thomas, 1543?-1600.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1658-1663?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02919</idno>
+            <idno type="STC">Wing D955C</idno>
+            <idno type="STC">ESTC R174584</idno>
+            <idno type="EEBO-CITATION">47012386</idno>
+            <idno type="OCLC">ocm 47012386</idno>
+            <idno type="VID">174356</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02919)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174356)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2686:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lamentation of Mr Pages wife of Plimouth: who being enforced to wed against her will, did consent to murder for the love of George Strangwidge, for which fact they suffered death at Barstable in Devonshire. The tune is, Fortune my foe.</title>
+                  <author>Deloney, Thomas, 1543?-1600.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed for F. Coles, Tho. Vere and W. Gilbertson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[between 1658 and 1663?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Author, place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Right half sheet contains: "The lamentation of George Strangwidge ..." and "The complaint of Mrs. Page ..."</note>
+                  <note>Reproduction of original in: University of Glasgow Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Strangwidge, George --  Poetry.</term>
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:174356:1" rendition="simple:additions"/>
+            <head>The lamentation of Mr Pages wife of Plimouth: VVho being enforced to wed againſt her will, did conſent to his murder for the love of <hi>George Strangwidge,</hi> for which fact they ſuffered death at Barſtable in Devonſhire.</head>
+            <q>
+               <bibl>The tune is, <hi>Fortune my Foe.</hi>
+               </bibl>
+            </q>
+            <lg>
+               <l>UNhappy ſhe whom fortune hath forlorn,</l>
+               <l>Deſpis'd of grace that proffered grace did ſcorn</l>
+               <l>My lawleſs love, hath luckleſs wrought my woe,</l>
+               <l>My diſcontent, content did overthrow.</l>
+            </lg>
+            <lg>
+               <l>My loathed life too late I do lament,</l>
+               <l>My wofull deed in heart I do repent:</l>
+               <l>A wife I was that wilfull went away,</l>
+               <l>And for that fault am here prepar'd to dye.</l>
+            </lg>
+            <lg>
+               <l>In blooming years my Fathers gréedy mind,</l>
+               <l>Againſt my wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> a match for me did find,</l>
+               <l>Great wealth there was, yea, gold and ſilver ſtore,</l>
+               <l>But yet my heart had choſen one before.</l>
+            </lg>
+            <lg>
+               <l>Mine eyes diſlik't my Fathers liking quite,</l>
+               <l>My heart did loath my Parents fond delight:</l>
+               <l>My grie<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er mind and fancy told to me,</l>
+               <l>That with his Age my youth could not agree.</l>
+            </lg>
+            <lg>
+               <l>On knees I <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ray'd they would not me conſtrain,</l>
+               <l>With tears I cry'd, their purpoſe to reftrain,</l>
+               <l>With ſighs and ſobs I did them often move</l>
+               <l>I might not wed whereas I could not love.</l>
+            </lg>
+            <lg>
+               <l>But all in vain my ſpéeches ſtill I ſpent,</l>
+               <l>My Mothers will my wiſhes did prevent.</l>
+               <l>Though wealthy <hi>Page</hi> poſſeſt my outward part,</l>
+               <l>
+                  <hi>George Strangwindge</hi> ſtill was lodged in my heart.</l>
+            </lg>
+            <lg>
+               <l>I wedded was, and wrapped all in woe,</l>
+               <l>Great diſcontent within my heart did grow,</l>
+               <l>I loath'd to live, yet liv'd in deadly ſtrife,</l>
+               <l>Becauſe perforce I was made <hi>Pages</hi> Wife.</l>
+            </lg>
+            <lg>
+               <l>My choſen eyes could not his ſight abide,</l>
+               <l>My tender youth did ſcorn his aged ſide</l>
+               <l>Scant could I taſte the meat whereon be fed,</l>
+               <l>My legs did loath to lodge with in his bed.</l>
+            </lg>
+            <lg>
+               <l>Cauſe knew I none, that ſhould deſpite him ſo,</l>
+               <l>That ſuch diſdain within my heart did grow,</l>
+               <l>Save onely this, that fancy did me move,</l>
+               <l>And told me ſtill <hi>Georg Strangwindge</hi> was my love.</l>
+            </lg>
+            <lg>
+               <l>But here began my downfal and decay,</l>
+               <l>In mind I must'd to make him ſtraight away,</l>
+               <l>I that became his diſcontented Wife,</l>
+               <l>Contented was he ſhould be ride of life.</l>
+            </lg>
+            <lg>
+               <l>Methinks the heavens cries vengeance for my fact,</l>
+               <l>Methinks the world condemns my monſtrous act</l>
+               <l>Methinks within, my Conſcience tells me true,</l>
+               <l>That for that déed Hell fire is my due.</l>
+            </lg>
+            <lg>
+               <l>My penſive ſoul doth ſorrow for my ſin,</l>
+               <l>For which offence my ſoul doth bléed within,</l>
+               <l>But mercy Lord, for mercy ſtill I cry,</l>
+               <l>Save thou my ſoul, and let my body dye.</l>
+            </lg>
+            <lg>
+               <l>Well could I wiſh that <hi>Page</hi> enjoy'd his life,</l>
+               <l>So that he had ſome other to his wife,</l>
+               <l>But never could I wiſh of low or high,</l>
+               <l>A longer life then ſee ſwéet <hi>Strangwidge</hi> dye.</l>
+            </lg>
+            <lg>
+               <l>O woe is me that had no greater grace,</l>
+               <l>Lo ſtay till he had run out natures race:</l>
+               <l>My déed I rue, but more I do repent,</l>
+               <l>That to the ſame my <hi>Stangwidge</hi> gave conſent.</l>
+            </lg>
+            <lg>
+               <l>You Parents fond that gréedy minded be,</l>
+               <l>And ſeek to graft upon the golden tree:</l>
+               <l>Conſider well, and rightful judges be,</l>
+               <l>And give your doom, twixt Parents love and me.</l>
+            </lg>
+            <lg>
+               <l>I was their Child, and bound for to obey,</l>
+               <l>Yet not to love where I no love could lay:</l>
+               <l>I married was in muck and endleſs ſtrife,</l>
+               <l>But faith before had made me <hi>Strangwidge</hi> wife.</l>
+            </lg>
+            <lg>
+               <l>O wretched world! whom cankred ruſt doth blind,</l>
+               <l>And curſed men who bear a greedy mind;</l>
+               <l>And hapleſs I whom Parents did force ſo</l>
+               <l>To end my dayes in ſorrow, ſhame, and woe.</l>
+            </lg>
+            <lg>
+               <l>You <hi>Devonſhire</hi> Dames, &amp; courteous <hi>Cornwal</hi> Kts.</l>
+               <l>That here are come to viſit wofull Wights,</l>
+               <l>Regard my griefe, and mark my wofull end</l>
+               <l>But to your children be a better friend.</l>
+            </lg>
+            <lg>
+               <l>And thou my Dear, which for my fault muſt dye,</l>
+               <l>Be not affraid the force of death to try:</l>
+               <l>Like as we liv'd and lov'd together true,</l>
+               <l>So both at once lets bid the world adieu.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Vlalia</hi> thy friend doth take her laſt farewel,</l>
+               <l>Whoſe ſoul with thine in heaven do<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ever dwell,</l>
+               <l>Swéet Saviour Chriſt do thou my ſoul receive,</l>
+               <l>The world I do with all my heart forgive.</l>
+            </lg>
+            <lg>
+               <l>And Parents now whoſe gréedy minds do ſhow</l>
+               <l>Your hearts deſire, and inward heavy woe,</l>
+               <l>Mourn you no more, for hope my heart doth tell</l>
+               <l>Ere day be done, that I ſhall be full well.</l>
+            </lg>
+            <lg>
+               <l>And <hi>Plimouth</hi> proud I bid thée now farewel,</l>
+               <l>Take heed you Wives, let not your hands reball,</l>
+               <l>And farewel life, wherein ſuch ſorrow ſhows</l>
+               <l>And welcome death that muſt my Corps encloſe.</l>
+            </lg>
+            <lg>
+               <l>And now ſwéet Lord forgive me my miſdeeds</l>
+               <l>Repentance cries for ſoul that inward bléeds,</l>
+               <l>My ſoul and body I commend to thee</l>
+               <l>That with thy blood from Death redem'd it frée.</l>
+            </lg>
+            <lg>
+               <l>Lord bleſs our King with long and happy life</l>
+               <l>And ſend true peace betwixt each man and wife,</l>
+               <l>And give all Parents wiſdome to foreſée,</l>
+               <l>The match is mar'd where minds do not agree.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>The Lamentation of George Strangwidge, who for the conſenting to the death of <hi>Mr.</hi> Page of Plimouth, ſuffe<g ref="char:EOLhyphen"/>red death at Barſtable.</head>
+            <lg>
+               <l>THe man that ſighs and ſorrows for his ſin,</l>
+               <l>The corps which care and wo hath wrapped in,</l>
+               <l>In dolefull ſort records his Swanlike ſong,</l>
+               <l>That waits for death, and loaths to live ſo long.</l>
+            </lg>
+            <lg>
+               <l>O <hi>Glansfield</hi> cauſe of my committed crime,</l>
+               <l>Snared in wealth, as birds in buſh of lime.</l>
+               <l>What cauſe hadſt thou to hear ſuch wicked ſpight?</l>
+               <l>Againſt my Love and eke my hearts delight.</l>
+            </lg>
+            <lg>
+               <l>I would to God thy wiſdome had been more;</l>
+               <l>Or that I had not entred in thy door.</l>
+               <l>Or that thou hadſt a kinder Father been.</l>
+               <l>Unto thy Child, whoſe years are yet but green.</l>
+            </lg>
+            <lg>
+               <l>The match unméet which thou for me didſt make,</l>
+               <l>When aged <hi>Page</hi> thy daughter home did take.</l>
+               <l>Well mayſt thou rue with tears that cannot dry</l>
+               <l>Which is the cauſe that four of us muſt dye.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Vlalia</hi> more bright then Summers Sun,</l>
+               <l>Whoſe beauty had my love for ever won,</l>
+               <l>My ſoul more ſobs to think of thy diſgrace,</l>
+               <l>Then to behold my one untimely race.</l>
+            </lg>
+            <lg>
+               <l>The déed late done in heart I do repent,</l>
+               <l>But that I lov'd I cannot it relent,</l>
+               <l>Thy ſeemly ſight was ever ſwéet to me</l>
+               <l>Would God my death would thy excuſer be.</l>
+            </lg>
+            <lg>
+               <l>It was for me alas thou didſt the ſame,</l>
+               <l>On me by <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ight they ought to lay the blame,</l>
+               <l>My worthleſs love hath brought my life in ſcorn,</l>
+               <l>Now woe ſo me that ever I was born.</l>
+            </lg>
+            <lg>
+               <l>Farewel my Love whoſe royal heart was ſéen,</l>
+               <l>Would God thou hadſt not halfe ſo conſtant béen,</l>
+               <l>Farewell my Love the Pride of <hi>Plimouth</hi> town,</l>
+               <l>Farewel the flower whoſe beauty is cut down.</l>
+            </lg>
+            <lg>
+               <l>For twéenty years great was the coſt I know,</l>
+               <l>Thy unkind Father did on thée beſtow,</l>
+               <l>Yet afterwards ſo ſower did Fortune lower,</l>
+               <l>He loſt his joy and child within an hour.</l>
+            </lg>
+            <lg>
+               <l>My wrong and woe <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o God I do commit,</l>
+               <l>Who was the cauſe of matching them unfit,</l>
+               <l>And yet my guilt I cannot ſo excuſe,</l>
+               <l>We gave conſent his life for to abuſe.</l>
+            </lg>
+            <lg>
+               <l>Wretch that I am that my conſent did give,</l>
+               <l>Had I deny'd, <hi>Vlalia</hi> ſtill ſhould live,</l>
+               <l>Blind fancy ſaid do not this ſuit deny,</l>
+               <l>Live thou in bliſs, or elſe in ſorrow dye.</l>
+            </lg>
+            <lg>
+               <l>O Lord forgive this cruel death of mine,</l>
+               <l>Upon my ſoul let beams of mercy ſhine,</l>
+               <l>In juſtice Lord do thou no vengeance take,</l>
+               <l>Forgive us both, <hi>for Jeſus Chriſt his ſake.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>The Complaint of Mrs. Page forcauſing her Husband to be murdered for the love of <hi>George Strangwidge,</hi> who were executed together.</head>
+            <lg>
+               <l>IF ever woe did touch a womans heart,</l>
+               <l>Or grief did gall for ſin the outward part,</l>
+               <l>My conſcience then and heavy heart within,</l>
+               <l>Can witneſſe well the ſorrow for my ſin.</l>
+            </lg>
+            <lg>
+               <l>When years were young my Father forc'd me wed,</l>
+               <l>Againſt my will, were fancy was not fed.</l>
+               <l>I was content his pleaſure to obey.</l>
+               <l>Although my heart was link'd another way.</l>
+            </lg>
+            <lg>
+               <l>Great were the gifts they proffered in my ſight,</l>
+               <l>With wealth they thought to win me to delight.</l>
+               <l>But gold nor gifts could not my mind remove,</l>
+               <l>For I was linkt whereas I could not love.</l>
+            </lg>
+            <lg>
+               <l>Methought his ſight was loathſome to my eye</l>
+               <l>My heart did grudge againſt him inwardly,</l>
+               <l>This diſcontent did cauſe my deadly ſtrife.</l>
+               <l>And with his wealth I liv'd a grievous life.</l>
+            </lg>
+            <lg>
+               <l>My conſtant love was on young <hi>Strangwidge</hi> ſet,</l>
+               <l>And wo to him that did our welfare let,</l>
+               <l>His love ſo deep a root in me did take,</l>
+               <l>I could have gone a begging for his ſake.</l>
+            </lg>
+            <lg>
+               <l>Wronged he was through fond deſire of gain</l>
+               <l>Wronged he was even through my Parents plain,</l>
+               <l>If Faith and troth a perfect pledge might be,</l>
+               <l>I had béen wife unto no man but he.</l>
+            </lg>
+            <lg>
+               <l>Eternal God forgive my Fathers déed,</l>
+               <l>And grant all Maidens may take better héed,</l>
+               <l>If I had béen conſtant unto my friend,</l>
+               <l>I had not matcht to make ſo bad an end.</l>
+            </lg>
+            <lg>
+               <l>But wanting grace I ſought my own decay,</l>
+               <l>And was the cauſe to make my friend away.</l>
+               <l>And be on whom my earthly joyes did lye,</l>
+               <l>Through my amiſs a ſhameful death muſt dye.</l>
+            </lg>
+            <lg>
+               <l>Farewel ſwéet <hi>George</hi> always my loving friend</l>
+               <l>Néeds muſt I laud and love thée to the end.</l>
+               <l>And albeit that <hi>Page</hi> poſſeſt thy due,</l>
+               <l>In ſight of God thou waſt my husband true.</l>
+            </lg>
+            <lg>
+               <l>My watry eyes unto the heavens I bend,</l>
+               <l>Craving of Chriſt his mercy to extend.</l>
+               <l>My bloody déed O Lord do me forgive,</l>
+               <l>And let my ſoul within thy Kingdom live.</l>
+            </lg>
+            <lg>
+               <l>Farewel falſe world and Friends that fickle be,</l>
+               <l>All wives Farewel, example take by me.</l>
+               <l>Let not the Devil to murder you intice,</l>
+               <l>Séek to eſcape ſuch foul and filthy vice.</l>
+            </lg>
+            <lg>
+               <l>And now O Chriſt to thée I yield my breath,</l>
+               <l>Strengthen my Faith in bitter pangs of death.</l>
+               <l>Forgive my faults and folly I thée pray,</l>
+               <l>And with thy blood waſh thou my ſins away.</l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed for F. Coles. <hi>Tho. Vere</hi> and <hi>W.</hi> Gilbertſon.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
